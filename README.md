@@ -1,4 +1,5 @@
 📋 About The Project
+
 This is an interactive dashboard built with Streamlit for visual analysis of DNA sequences. It allows researchers, students, and bioinformatics enthusiasts to explore genomic sequences intuitively, without needing to code.
 
 \n Features:
